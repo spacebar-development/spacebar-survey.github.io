@@ -74436,7 +74436,7 @@ L(a){var s,r,q,p,o,n,m,l,k,j,i,h,g,f,e=this,d=null,c=4282059509,b=4294243831
 e.a.toString
 s=A.akS(A.ex("\uc2a4\ud398\uc774\uc2a4\ubc14 \uc124\ubb38\uc9c0",d,d,d,d,d,d))
 r=A.db(d,d,B.l,d,d,d,d,d,d,d,d,20,d,d,B.c1,d,d,!0,d,d,d,d,d,d,d,d)
-r=A.aip(d,d,B.ce,d,d,!0,d,A.cO(A.a([A.cO(d,A.db(d,d,new A.C(c),d,d,d,d,d,d,d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),"Spacebar"),A.cO(d,d,"\ub294 \uc0ac\uc7a5\ub2d8\ub4e4\uc758 \uc0ac\uc5c5 \uacfc\uc815\uc5d0 \uc5b8\uc81c\ub098 \ud568\uaed8 \uc788\uc5b4\uc694.\n\uc0ac\uc804 \uc0c1\ub2f4\ubc1b\uace0 \uae30\uc790\uc7ac \uad00\ub828 \uc815\ubcf4 \uc81c\uacf5\uacfc \uc5c5\uccb4 \uc5f0\uacb0\uc744 \ube60\ub974\uac8c \ub3c4\uc640\ub4dc\ub9b4\uac8c\uc694.")],t.Ne),r,d),B.aQ,d,d,1,B.aI)
+r=A.aip(d,d,B.ce,d,d,!0,d,A.cO(A.a([A.cO(d,A.db(d,d,new A.C(c),d,d,d,d,d,d,d,d,d,d,d,d,d,d,!0,d,d,d,d,d,d,d,d),"Spacebar"),A.cO(d,d,"\ub294 \uc0ac\uc7a5\ub2d8\ub4e4\uc758 \uc0ac\uc5c5 \uacfc\uc815\uc744 \uc5b8\uc81c\ub098 \ud568\uaed8 \ud560\uac8c\uc694.\n\uc0ac\uc804 \uc0c1\ub2f4 \ud6c4\uc5d0 \uae30\uc790\uc7ac \uad00\ub828 \uc815\ubcf4 \uc81c\uacf5\uacfc \uc5c5\uccb4 \uc5f0\uacb0\uc744 \ube60\ub974\uac8c \ub3c4\uc640\ub4dc\ub9b4\uac8c\uc694.")],t.Ne),r,d),B.aQ,d,d,1,B.aI)
 q=e.d
 q===$&&A.b()
 q=A.agz(20,10,q,"\ud68c\uc0ac\uba85","\uac00\uac8c \uc774\ub984\uc744 \uc801\uc5b4\uc8fc\uc138\uc694")
